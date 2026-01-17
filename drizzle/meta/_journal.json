@@ -8,6 +8,13 @@
       "when": 1768409983818,
       "tag": "0000_motionless_red_ghost",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1768655577066,
+      "tag": "0001_sweet_boom_boom",
+      "breakpoints": true
     }
   ]
 }
